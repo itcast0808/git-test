@@ -15,5 +15,6 @@ public class FirstClass {
 
     public void test() {
         System.out.println("123");
+        System.out.println("123");
     }
 }
